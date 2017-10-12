@@ -2,4 +2,4 @@
 
 Just get familiar with how to update files using push and commit requests.
 
-Penguins poop rainbows.
+Penguins poop rainbows. And sometimes sunflowers.
