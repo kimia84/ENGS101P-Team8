@@ -1,0 +1,11 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11120\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\ri0\partightenfactor0
+
+\f0\fs24 \cf0 Recognition of 3D Objects\
+The use of 3D object recognition is becoming more important in developing new technologies. 3D objects can be detected and rendered using photographs or range scans. The ability to detect objects is very useful for designing applications and implementing the use of Augmented Reality or Mixed Reality. These features can be used in video games and simulations in all sorts of industries. If computers could have the ability to see the objects around them, then researchers could further enhance vehicles such self-driving cars which are currently being worked on. As of now, in order to detect 3D objects, computers require a 3D model of the object which can be difficult at times. The research group at UCL is currently working on combining a small number of images such that 3D objects can be rendered directly from their 2D images instead of having to create a 3D model first.\
+}
